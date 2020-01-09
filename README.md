@@ -1,5 +1,15 @@
-# Microwave-Radiolink-Design
+# Microwave Radiolink Design
 This is a term project about microwave radiolink design from the course EHB 473 - Microwave - Radio Frequency Communication.
+
+<p align="center">
+  <img src="map.jpg">
+</p>
+<p align="center">
+  <img src="topolojical.jpg">
+</p>
+
+Snipped from beuatiful [Google Earth Pro](https://www.google.com.tr/intl/tr/earth/versions/#download-pro) (Seriously just use it for 
+exploring, 10/10 activity would recommend.)
 
 The report can be found [here.](https://github.com/kantarcise/Microwave-Radiolink-Design/blob/master/Project.pdf)
 
