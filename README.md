@@ -8,7 +8,7 @@ This is a term project about microwave radiolink design from the course EHB 473 
   <img src="topolojical.PNG">
 </p>
 
-Snipped from beuatiful [Google Earth Pro](https://www.google.com.tr/intl/tr/earth/versions/#download-pro) (Seriously just use it for 
+Snipped from beautiful [Google Earth Pro](https://www.google.com.tr/intl/tr/earth/versions/#download-pro) (Seriously just use it for 
 exploring, 10/10 activity would recommend.)
 
 The report can be found [here.](https://github.com/kantarcise/Microwave-Radiolink-Design/blob/master/Project.pdf)
