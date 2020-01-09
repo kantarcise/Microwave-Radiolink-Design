@@ -27,10 +27,11 @@ All the references are listed here, if you want to check them out.
 
 [1] Prof. Dr. Mesut Kartal, “Lecture Notes” , İTÜ, 2019
 
-[2] Book - Freeman, R. (2007). Radio system design for telecommunications. New York: IEEE.
+[2] Book - Freeman, R. (2007). [Radio system design for telecommunications.](https://www.amazon.com/Radio-System-Design-Telecommunications-Freeman/dp/0471757136) New York: IEEE.
 
-[3] Ali, Mohammad & Jayakody, Dushantha Nalin & Chursin, Yury & Affes, Sofiène & Dmitry, Sonkin. (2019). Recent Advances and Future 
-Directions on Underwater Wireless Communications. Archives of Computational Methods in Engineering. 26. 1-34. 10.1007/s11831-019-09354-
+[3] Ali, Mohammad & Jayakody, Dushantha Nalin & Chursin, Yury & Affes, Sofiène & Dmitry, Sonkin. (2019). [Recent Advances and Future 
+Directions on Underwater Wireless Communications.](https://link.springer.com/article/10.1007/s11831-019-09354-8) Archives of 
+Computational Methods in Engineering. 26. 1-34. 10.1007/s11831-019-09354-
 8.
 
 [4] Google Earth Pro, link : https://www.google.com.tr/intl/tr/earth/
