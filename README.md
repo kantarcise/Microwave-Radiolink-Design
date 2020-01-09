@@ -2,10 +2,10 @@
 This is a term project about microwave radiolink design from the course EHB 473 - Microwave - Radio Frequency Communication.
 
 <p align="center">
-  <img src="map.jpg">
+  <img src="map.PNG">
 </p>
 <p align="center">
-  <img src="topolojical.jpg">
+  <img src="topolojical.PNG">
 </p>
 
 Snipped from beuatiful [Google Earth Pro](https://www.google.com.tr/intl/tr/earth/versions/#download-pro) (Seriously just use it for 
