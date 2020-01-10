@@ -17,6 +17,22 @@ It is written in Turkish, so i will do my very best to explain it throughly in t
 
 ## Introduction
 
+So this project was about designing a ground to ground microwave radiolink. While there are a lot things to consider in this design, an 
+whole a lot of stuff that could go wrong; with some procedures, we can design a link that is robust and well built.
+
+As an engineer, we have to think in **margins**, and apply a perspective of a "test engineer" to our design; before it is even 
+considered to be realized. In a Microwave Radiolink, things that could form an issue are thus:
+
++ Center Frequency
++ Bandwidth
++ Link Profile
++ Weather Conditions
++ Possible Fading Probabilities
++ Tower Building Capabilities
++ Frequency Plan
+
+All of these points need to be thought of throughly, as they are crucial for our design.
+
 ## Design
 
 ## Results and Future Work
