@@ -35,6 +35,10 @@ All of these points need to be thought of throughly, as they are crucial for our
 
 ## Design
 
+The design started, with the idea of development purpose. Two small countryside villages chosen from the North of Turkey; and thought 
+process were designing a 1500 user telephone link between these villages with two dish antenna towers. If needed there would be 
+diversity; which actually ended up being used space diversity to improve the avalibility of the link.
+
 ## Results and Future Work
 
 ## References
