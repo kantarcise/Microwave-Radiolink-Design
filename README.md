@@ -68,27 +68,6 @@ Computational Methods in Engineering. 26. 1-34. 10.1007/s11831-019-09354-
 
 
 
+## Help, I don't understand this!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+For any questions regarding how to use Smith Chart or links to some old projects to get a reference; feel free to contact [Sezai](mailto:sezaiburakkantarci@gmail.com) from the mail. 
